@@ -1,4 +1,4 @@
-# introduccionPython
+# Introudcción a Python
 Repositorio en el que se encuentrasn ejemplos introductorias a las siguientes biliotecas de 
 python:
 - Numpy
