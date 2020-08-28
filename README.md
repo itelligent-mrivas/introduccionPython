@@ -1,2 +1,8 @@
 # introduccionPython
-Documentos introductorios a python
+Repositorio en el que se encuentrasn ejemplos introductorias a las siguientes biliotecas de 
+python:
+- Numpy
+- SciPy
+- Pandas
+-Scikit learn
+
